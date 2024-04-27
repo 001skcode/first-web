@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+body {
+  background: rgb(0, 0, 24);
+}
+
+.phase1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  margin-left: 80px;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+.writing h1 {
+  color: white;
+  width: 10em;
+  font-size: 65px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.writing p {
+  color: white;
+  margin-top: 0;
+  width: 300px;
+  font-size: 17px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+
+.writing button {
+  margin-top: 0;
+  font-size: 17px;
+  font-weight: 700;
+  color: ;
+  background: orange;
+  padding: 8px 16px;
+  border: 2px;
+  border: none;
+  border-radius: 4px;
+}
+
+.photo {
+  width: 300px;
+}
+
+.my_logos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+
+  padding: 10px;
+  margin-top: 0;
+  margin-bottom: 45px;
+}
+
+.my_logos img {
+  width: 100px;
+ 
+}
+
+.phase2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+ margin-top: 0; 
+ padding: 40px;
+ margin-bottom: 50px;
+}
+
+.burger_pic {
+  margin-left: 15rem;
+}
+
+.burger_pic img {
+  width: 230px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.burger_info {
+  margin-right: 15rem;
+  padding: 10px;
+}
+
+.burger_heading {
+  width: 380px;
+  font-size: 42px;
+  font-weight: 500;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.burger_graph {
+  margin-top: 0;
+  width: 340px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgb(204, 199, 199);
+  margin-bottom: 15px;
+}
+
+.btn {
+  margin-top: 0;
+  padding: 8px 16px;
+  background-color: orangered;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  border-radius: 16px;
+}
+
+.phase3 {
+
+  
+}
+
+

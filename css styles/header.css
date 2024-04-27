@@ -1,0 +1,42 @@
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+
+.logo {
+  margin-left: 80px;
+  font-size: 20px;
+  font-weight: 500;
+  color: orange;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  margin-inline: 1.9rem;
+  
+}
+
+li, a {
+  color: whitesmoke;
+  font-weight: 500;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.sign {
+  margin-right: 80px;
+  font-size: 17px;
+  color: orange;
+  background: black;
+  padding: 9px 18px;
+  border: 1px solid orange;
+  border-radius: 18px;
+}
